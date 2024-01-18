@@ -10,4 +10,5 @@ Working as a Azure Integration Engineer currently.
 ## Authors
 
 - [@saumyapandey1511](https://www.github.com/saumyapandey1511)
-- ![Screenshort of Application]![image](https://github.com/saumyapandey1511/flash-card-project-FrenchToEnglish/assets/97386052/7687189c-a9b7-46c4-9de9-29156fe2d1ed)
+- ![Screenshort of Application]![image]![image](https://github.com/saumyapandey1511/flash-card-project-FrenchToEnglish/assets/97386052/21bd6c11-dec2-4a2c-b2fa-0abbda7a441d)
+
