@@ -62,11 +62,5 @@ tick_image =PhotoImage(file="images/right.png")
 tick_button=Button(image=tick_image,bg=BACKGROUND_COLOR,command=is_known)
 tick_button.grid(column=1,row=1,sticky="EW")
 
-
-
-
-
-# choose_word_en()
-# window.after_cancel()
 choose_word_fr()
 window.mainloop()
